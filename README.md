@@ -3,7 +3,7 @@
 [![Android](https://img.shields.io/badge/Platform-Android-green.svg)](https://developer.android.com/)
 [![Java](https://img.shields.io/badge/Language-Java-orange.svg)](https://www.java.com/)
 [![Tesseract](https://img.shields.io/badge/OCR-Tesseract%203.05-blue.svg)](https://github.com/tesseract-ocr/tesseract)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
 
 **MarathiScan** is an Android document scanner and OCR application with native support for **Marathi (Devanagari script)** and **English** text recognition. Scan documents, extract text with preserved formatting, and export to Microsoft Word DOCX format.
 
@@ -223,21 +223,26 @@ Comprehensive documentation is available in the repository:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+**Copyright © 2026 Oshan Mitkari. All Rights Reserved.**
+
+This project is licensed under a **Proprietary License**.
+
+**This software is NOT open-source and is NOT available for:**
+- ❌ Copying or reproduction
+- ❌ Modification or derivative works
+- ❌ Distribution or redistribution
+- ❌ Commercial use without permission
+- ❌ Reverse engineering
+
+**Permitted use:**
+- ✅ Viewing source code for educational/reference purposes only
+- ✅ Using the compiled APK for personal, non-commercial use only
+
+See the [LICENSE](LICENSE) file for complete terms.
+
+For licensing inquiries or permission requests, please contact the author.
 
 ---
 
