@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- App-specific external files directory (Android 10+) -->
+    <external-files-path
+        name="scandoc_documents"
+        path="Documents/ScanDoc/" />
+
+    <!-- External storage for legacy devices -->
+    <external-path
+        name="external_storage"
+        path="." />
+
+    <!-- Downloads folder -->
+    <external-path
+        name="downloads"
+        path="Download/" />
+
+    <!-- Cache directory for temporary files -->
+    <cache-path
+        name="cache"
+        path="." />
+</paths>
